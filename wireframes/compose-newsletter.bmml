@@ -21,12 +21,12 @@
             <text>%5BCopyright%5D%0A%5B%C0%20propos%5D%0A%5BGitHub%5D</text>
           </controlProperties>
         </control>
-        <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="0" y="60" w="81" h="271" measuredW="200" measuredH="178" zOrder="3" locked="false" isInGroup="21">
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::VerticalTabBar" x="0" y="60" w="81" h="271" measuredW="200" measuredH="207" zOrder="3" locked="false" isInGroup="21">
           <controlProperties>
             <borderStyle>none</borderStyle>
             <position>left</position>
             <selectedIndex>0</selectedIndex>
-            <text>Vid%E9os%0AFilms%0AChroniques%0AProfil</text>
+            <text>Vid%E9os%0AFilms%0AChroniques%0A%C9ditions%0AProfil</text>
           </controlProperties>
         </control>
       </groupChildrenDescriptors>
