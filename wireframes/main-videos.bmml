@@ -51,6 +51,15 @@
         <backgroundAlpha>0.5</backgroundAlpha>
         <borderColor>15658734</borderColor>
         <borderStyle>none</borderStyle>
+        <color>15658734</color>
+      </controlProperties>
+    </control>
+    <control controlID="26" controlTypeID="com.balsamiq.mockups::Canvas" x="792" y="137" w="73" h="26" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <backgroundAlpha>0.5</backgroundAlpha>
+        <borderColor>0</borderColor>
+        <borderStyle>none</borderStyle>
+        <color>15658734</color>
       </controlProperties>
     </control>
   </controls>
