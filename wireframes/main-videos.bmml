@@ -31,7 +31,7 @@
         </control>
       </groupChildrenDescriptors>
     </control>
-    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="113" y="133" w="822" h="449" measuredW="737" measuredH="482" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::DataGrid" x="113" y="133" w="822" h="477" measuredW="737" measuredH="482" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <alternateRowColor>16777215</alternateRowColor>
         <borderStyle>none</borderStyle>
