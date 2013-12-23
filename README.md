@@ -40,5 +40,5 @@ Voici une série de Wireframes définissant l'interface du site et le workflow d
 
 ### Navigation et consultation des éditions passées (archive)
 
-![wireframe view-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/view-newsletter.png)
+![wireframe view-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/view-newsletters.png)
 
