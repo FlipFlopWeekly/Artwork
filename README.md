@@ -28,17 +28,17 @@ Voici une série de Wireframes définissant l'interface du site et le workflow d
 
 ### Vue principale, affichage de toutes les vidéos ajoutées
 
-![wireframe main-videos](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframe/main-videos.png)
+![wireframe main-videos](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/main-videos.png)
 
 ### Démarrage de la composition de newsletter
 
-![wireframe compose-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframe/compose-newsletter.png)
+![wireframe compose-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/compose-newsletter.png)
 
 ### Édition du contenu éditorial de la newsletter avant envoi
 
-![wireframe send-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframe/send-newsletter.png)
+![wireframe send-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/send-newsletter.png)
 
 ### Navigation et consultation des éditions passées (archive)
 
-![wireframe view-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframe/view-newsletter.png)
+![wireframe view-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/view-newsletter.png)
 
