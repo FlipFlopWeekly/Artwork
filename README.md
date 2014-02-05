@@ -42,3 +42,8 @@ Voici une série de Wireframes définissant l'interface du site et le workflow d
 
 ![wireframe view-newsletter](https://raw.github.com/FlipFlopWeekly/Artwork/master/wireframes/view-newsletters.png)
 
+### Zori - Maquette v0.1
+
+![wireframe zori1](https://raw.github.com/FlipFlopWeekly/Artwork/master/zori/zori1.jpg)
+![wireframe zori2](https://raw.github.com/FlipFlopWeekly/Artwork/master/zori/zori2.jpg)
+![wireframe zori3](https://raw.github.com/FlipFlopWeekly/Artwork/master/zori/zori3.jpg)
